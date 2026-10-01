@@ -6,5 +6,5 @@ Note: For now, only npm is supported.
 # Command
 
 ```
-python3 depcheck.py npm /package.json
+python3 depcheck.py npm /path/to/package.json
 ```
